@@ -2,7 +2,9 @@
 
 ## Setup
 Install whisper
-'' pip install -U openai-whisper ''
+```
+pip install -U openai-whisper
+```
 
 Install ffmpeg
 ```bash
