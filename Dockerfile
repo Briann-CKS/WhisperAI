@@ -1,13 +1,8 @@
-# FROM public.ecr.aws/lambda/python:3.11
-
 FROM python:latest
 
 FROM ubuntu:latest
 
-# FROM 8675309/ffmpy
-
-RUN apt-get -y update && apt-get install -y ffmpeg 
-
+RUN apt-get -y update &&  apt-get install -y ffmpeg 
 RUN apt-get update && apt-get install -y python3-pip
 
 RUN mkdir /tmp/data

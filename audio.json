@@ -1,0 +1,1 @@
+{"text": " What a beautiful day it is.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 3.0, "text": " What a beautiful day it is.", "tokens": [50364, 708, 257, 2238, 786, 309, 307, 13, 50514], "temperature": 0.0, "avg_logprob": -0.4349864959716797, "compression_ratio": 0.7714285714285715, "no_speech_prob": 0.11702055484056473}], "language": "en"}
